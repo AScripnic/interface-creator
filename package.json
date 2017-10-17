@@ -1,6 +1,6 @@
 {
   "name": "interface-creator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create interfaces in javascript",
   "main": "index.js",
   "scripts": {
