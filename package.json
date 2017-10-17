@@ -1,6 +1,6 @@
 {
   "name": "interface-creator",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Create interfaces in javascript",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,9 @@
     "classes"
   ],
   "author": "Alexandru Scripnic <scripnic.alexandru@gmail.com>",
-  "homepage": "https://github.com/AScripnic/interface-creator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AScripnic/interface-creator"
+  },
   "license": "ISC"
 }
